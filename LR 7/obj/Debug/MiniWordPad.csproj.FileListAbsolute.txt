@@ -1,0 +1,12 @@
+C:\Users\Notebook\Desktop\WordPad-main\bin\Debug\help.chm
+C:\Users\Notebook\Desktop\WordPad-main\bin\Debug\MiniWordPad.exe.config
+C:\Users\Notebook\Desktop\WordPad-main\bin\Debug\MiniWordPad.exe
+C:\Users\Notebook\Desktop\WordPad-main\bin\Debug\MiniWordPad.pdb
+C:\Users\Notebook\Desktop\WordPad-main\obj\Debug\MiniWordPad.csproj.AssemblyReference.cache
+C:\Users\Notebook\Desktop\WordPad-main\obj\Debug\MiniWordPad.AboutBox1.resources
+C:\Users\Notebook\Desktop\WordPad-main\obj\Debug\MiniWordPad.MainForm.resources
+C:\Users\Notebook\Desktop\WordPad-main\obj\Debug\MiniWordPad.Properties.Resources.resources
+C:\Users\Notebook\Desktop\WordPad-main\obj\Debug\MiniWordPad.csproj.GenerateResource.cache
+C:\Users\Notebook\Desktop\WordPad-main\obj\Debug\MiniWordPad.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\Desktop\WordPad-main\obj\Debug\MiniWordPad.exe
+C:\Users\Notebook\Desktop\WordPad-main\obj\Debug\MiniWordPad.pdb
